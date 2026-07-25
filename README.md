@@ -1,3 +1,5 @@
+English | [繁體中文](README.zh-TW.md)
+
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
